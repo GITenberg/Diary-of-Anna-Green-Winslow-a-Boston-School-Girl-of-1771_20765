@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2836
 description: The diary of a twelve-year-old girl, written for her parents in Nova
   Scotia, is concerned with daily occurences in provincial Boston.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20765#Diary-of-Anna-Green-Winslow-a-Boston-School-Girl-of-1771
 gutenberg_issued: '2007-03-07'
 gutenberg_type: Text
 identifiers:
