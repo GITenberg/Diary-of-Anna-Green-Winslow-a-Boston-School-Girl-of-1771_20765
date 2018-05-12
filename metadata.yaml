@@ -1,0 +1,38 @@
+_repo: Diary-of-Anna-Green-Winslow-a-Boston-School-Girl-of-1771_20765
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20765-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Winslow, Anna Green
+    birthdate: 1759
+    deathdate: 1779
+    gutenberg_agent_id: '9510'
+    url: http://www.gutenberg.org/2009/agents/9510
+  editor:
+    agent_name: Earle, Alice Morse
+    alias: Earle, Mary Alice Morse
+    birthdate: 1851
+    deathdate: 1911
+    gutenberg_agent_id: '2836'
+    url: http://www.gutenberg.org/2009/agents/2836
+description: The diary of a twelve-year-old girl, written for her parents in Nova
+  Scotia, is concerned with daily occurences in provincial Boston.
+gutenberg_issued: '2007-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F001'
+- !lcsh 'Boston (Mass.) -- Social life and customs'
+- !lcsh 'Boston (Mass.) -- History -- Colonial period, ca. 1600-1775'
+- !lcsh 'Winslow, Anna Green, 1759-1779'
+- !lcsh 'Girls -- Massachusetts -- Boston -- Diaries'
+- !lcsh 'Winslow, Anna Green, 1759-1779 -- Diaries'
+title: Diary of Anna Green Winslow, a Boston School Girl of 1771
+url: http://www.gutenberg.org/ebooks/20765
